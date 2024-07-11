@@ -1,0 +1,22 @@
+
+######################## PANDAS ASSIGNMENT ##################################
+
+Create a repository in your Github named as "Working with Pandas"
+Finish the Exercise  - 1 task and upload the .ipynb files in the Github
+.ipynb is the extension of your jupyter notebook, which you will find in the current path.
+To check the path type  - pwd in the jupyter notebook. PWD stands for present working directory.
+
+####### For every questions you have to write proper print statements.
+##### After that you can also mention what insights you have gathered.
+
+#### The assignment is based on two datasets - 
+1. Titles Datasets -Which is regarding the Movie Titles, where you will have year and title name
+2. Cast Datasets - Which is regarding the casting of the Movies - Where you will have year, title, name, charachter and n which stands 
+for rank of the movie.
+
+Link of the datasets for Cast - https://drive.google.com/file/d/11fvunCQAVUlu2uxwNhOxmDgLZ0f2OhTr/view?usp=drive_link (Download it)
+Link of the datasets for titles - https://github.com/DataScience75/Top_mentor_projects_Datasets/blob/main/titles.csv (Download it)
+
+Submit  - pbose@topmentor.co
+
+############################## Last Date to Submit the assignments  - Before 18th NOv, 2023 #####################
